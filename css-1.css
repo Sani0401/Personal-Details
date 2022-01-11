@@ -1,0 +1,48 @@
+/*----------------------------tag selectors ----------------------------*/
+body{
+    background-color: #96CEB4;
+}
+
+img:hover{
+    background-color: gold;
+}
+
+
+/*-------------- CLASS SELECTORS----------------------*/
+
+
+
+.Education{
+    color: green ;
+}
+
+.image{
+    background-color: #66bfbf ;
+}
+.Circle{
+    border-radius: 100%;
+}
+
+/* -------------------------------Id selectors-----------------------------*/
+
+#Name
+{
+   
+    color: #FFEEAD ;
+}
+
+#education{
+    color: #FFEEAD ;
+}
+
+#skills{
+    color: #FFEEAD;
+}
+
+#Academics{
+    color: #072227;
+}
+
+#Duration{
+    color: #072227 ;
+}
